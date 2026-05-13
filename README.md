@@ -1,3 +1,5 @@
+## Hi, I'm Ashu 👋
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>    Scalable backend systems & microservices platform<br>👯 I’m looking to collaborate on  <br>    Backend engineering, AI-ML & Data analytics projects, and open-source contributions<br>💬 Ask me about  <br>    C++,Python, DSA, Backend Development, Microservices, and Software Engineering
 
