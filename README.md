@@ -6,7 +6,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=asgt2408&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=asgt2408&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=asgt2408&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
